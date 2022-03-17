@@ -3,6 +3,7 @@ Murphy botu kullanarak kullanım şartlarını ve gizlilik politikasını kabul 
 
 # Kullanım Şartları
 1: Botu sunucuza eklediğinizde önbellekte veya veritabanında sunucunuza veya sunucunuzdaki üyelere ait herhangi bir bilgi, sistemlerin çalışması için saklanabilir.
+
 2: Murphy yöneticileri botun kötüye kullanımını engellemek amacıyla botun sunucudaki ismine, sunucudaki rollere ve kanal verilerine erişebilir. Bu veriler herhangi bir yerde saklanmaz.
 
 
